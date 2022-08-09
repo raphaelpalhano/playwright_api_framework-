@@ -75,3 +75,5 @@ traces/
 build
 dist/
 docs/
+
+.env
